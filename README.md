@@ -1,2 +1,4 @@
 # hello-world
-My first repository in Git-hub
+===================
+
+Hi Humans, Fernando here I like to play around with GIT and GIT-HUB.
